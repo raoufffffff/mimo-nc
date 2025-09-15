@@ -1,7 +1,6 @@
 {
   "id": "68c7620f0f632f31773197fd",
   "logo": "https://i.ibb.co/4Z1PyZqQ/blob.webp",
-  "store_name": null,
   "main_color": "#001637ff",
   "phone": "0776966469",
   "repoName": "mimo-nc",
@@ -27,5 +26,7 @@
     "media": true,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
-  }
+  },
+  "language": "en",
+  "EnableBerue": false
 }
