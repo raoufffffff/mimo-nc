@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "Categori": {
+      "name": "anna",
+      "image": "https://i.ibb.co/G3R1KSsR/blob.webp",
+      "show": true
+    },
+    "id": 1
+  }
+]
