@@ -2,7 +2,7 @@
   "id": "68c7620f0f632f31773197fd",
   "logo": "https://i.ibb.co/4Z1PyZqQ/blob.webp",
   "main_color": "#001637ff",
-  "phone": "0776966469",
+  "phone": "0776966468",
   "repoName": "mimo-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
@@ -29,5 +29,8 @@
   },
   "language": "fr",
   "store_name": "hamoudi shop",
-  "EnableBerue": false
+  "EnableBerue": false,
+  "whatsapp": "all",
+  "viber": "oui",
+  "snapchat": "hello"
 }
