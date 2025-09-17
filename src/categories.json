@@ -4,5 +4,11 @@
     "name": "anna the graete",
     "show": true,
     "id": 1
+  },
+  {
+    "name": "green head",
+    "image": "https://i.ibb.co/VcbGBbwH/blob.webp",
+    "show": true,
+    "id": 2
   }
 ]
