@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68cdf56e5711c05c614bf63f",
+    "userId": "68c7620f0f632f31773197fd",
+    "name": "green head",
+    "price": 2000,
+    "Variants": [
+      {
+        "id": 0,
+        "name": "color",
+        "type": "color",
+        "options": [
+          {
+            "name": "red",
+            "color": "#fa0000"
+          },
+          {
+            "name": "green",
+            "color": "#00fa3e"
+          },
+          {
+            "name": "blue",
+            "color": "#001eff"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "show": false,
+    "type": "sexy",
+    "images": [
+      "https://i.ibb.co/vCbyRY3J/blob.webp",
+      "https://i.ibb.co/r25DTMsv/blob.webp",
+      "https://i.ibb.co/Vcw0kjVF/blob.webp",
+      "https://i.ibb.co/9HHLZjhx/blob.webp",
+      "https://i.ibb.co/wFk9S1f9/blob.webp",
+      "https://i.ibb.co/kYkRpgK/blob.webp"
+    ],
+    "visit": 8,
+    "orders": 0,
+    "date": "2025-09-20T00:29:34.989Z",
+    "__v": 0,
+    "Offers": []
+  }
+]
