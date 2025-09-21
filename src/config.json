@@ -1,7 +1,7 @@
 {
   "id": "68c7620f0f632f31773197fd",
   "logo": "https://i.ibb.co/pBSr9jFc/blob.webp",
-  "main_color": "#0400ff",
+  "main_color": "#bb00ff",
   "phone": "0776966468",
   "repoName": "mimo-nc",
   "facebook": "https://www.facebook.com/",
@@ -13,9 +13,9 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#ff00d0",
-    "namecolor": "#ffffff",
-    "barcolor": "#ffffff"
+    "headercolor": "#ffffff",
+    "namecolor": "#000000",
+    "barcolor": "#000000"
   },
   "thanks": {
     "img": true,
